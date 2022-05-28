@@ -39,7 +39,7 @@ include('db.php');
 			<div class="contact-bnr-w3-agile">
 				<ul>
 
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:aljokar014@gmail.com">aljokar014@gmail.com</a></li>
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:sunrise@gmail.com">sunrise@gmail.com</a></li>
 					<li><i class="fa fa-phone" aria-hidden="true"></i>+249 117507753</li>
 					<li class="s-bar">
 						<div class="search">
@@ -724,7 +724,7 @@ include('db.php');
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Connect With Us</h4>
 			<p class="contact-agile1"><strong>Phone :</strong>+249 117507753</p>
-			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:aljokar014@gmail.com">aljokar014@gmail.com</a></p>
+			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:sunrise@gmail.com">sunrise@gmail.com</a></p>
 			<p class="contact-agile1"><strong>Address :</strong> J9XJ+2FM, khartoum, Sudan</p>
 
 			<div class="social-bnr-agileits footer-icons-agileinfo">
@@ -743,7 +743,7 @@ include('db.php');
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2017 HOTEL SITE . All Rights Reserved | Brought To You by <a href="#">aljokar</a> </p>
+		        <p>© 2022 HOTEL SITE . All Rights Reserved | Brought To You by <a href="#">Group</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
